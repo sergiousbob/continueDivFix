@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34931.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{159795B4-4A4D-471B-BAC0-F1ADBE2C37C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueDivFix", "WindowsFormsApp1\ContinueDivFix.csproj", "{159795B4-4A4D-471B-BAC0-F1ADBE2C37C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

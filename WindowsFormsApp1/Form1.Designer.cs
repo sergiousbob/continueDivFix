@@ -116,7 +116,7 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.bntForward);
             this.Controls.Add(this.btnBack);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Обработчик Видео";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
